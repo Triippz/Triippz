@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Mark
 
+## About Me
+I am a Tech Lead at Hubspot on the Projects Teams working on developer tooling for customers.
 <!--
 **Triippz/Triippz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
